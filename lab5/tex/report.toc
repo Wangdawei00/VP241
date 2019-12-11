@@ -1,0 +1,88 @@
+\contentsline {section}{\numberline {1}Introduction}{2}% 
+\contentsline {subsection}{\numberline {1.1}Transient Response of $RC$, $RL$ \& $RLC$ Series Circuit}{2}% 
+\contentsline {subsubsection}{\numberline {1.1.1}$RC$ Series Circuit}{2}% 
+\contentsline {paragraph}{}{2}% 
+\contentsline {paragraph}{}{2}% 
+\contentsline {subsubsection}{\numberline {1.1.2}$RL$ Series Circuit}{2}% 
+\contentsline {paragraph}{}{2}% 
+\contentsline {subsubsection}{\numberline {1.1.3}$RLC$ Series Circuit}{3}% 
+\contentsline {paragraph}{}{3}% 
+\contentsline {subsection}{\numberline {1.2}$RLC$ Resonant Circuit}{3}% 
+\contentsline {subsubsection}{\numberline {1.2.1}$RLC$ Series Circuit}{3}% 
+\contentsline {paragraph}{}{3}% 
+\contentsline {subsubsection}{\numberline {1.2.2}Resonance}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{4}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {subsubsection}{\numberline {1.2.3}Quality Factor in Resonant Circuit}{5}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {section}{\numberline {2}Apparatus \& Measurement Procedure}{5}% 
+\contentsline {subsection}{\numberline {2.1}Apparatus}{5}% 
+\contentsline {paragraph}{}{5}% 
+\contentsline {subsection}{\numberline {2.2}Measurement Procedure}{6}% 
+\contentsline {subsubsection}{\numberline {2.2.1}$RC$, $RL$ Circuit}{6}% 
+\contentsline {subsubsection}{\numberline {2.2.2}$RLC$ Series Circuit}{6}% 
+\contentsline {subsubsection}{\numberline {2.2.3}$RLC$ Resonant Circuit}{6}% 
+\contentsline {section}{\numberline {3}Result}{6}% 
+\contentsline {subsection}{\numberline {3.1}The Transient Response of $RC$ Circuit}{6}% 
+\contentsline {paragraph}{}{6}% 
+\contentsline {paragraph}{}{7}% 
+\contentsline {subsection}{\numberline {3.2}The Transient Response of $RL$ Circuit}{7}% 
+\contentsline {paragraph}{}{7}% 
+\contentsline {subsection}{\numberline {3.3}The $RLC$ Damped Circuit}{8}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Critically Damped Circuit}{8}% 
+\contentsline {paragraph}{}{8}% 
+\contentsline {subsubsection}{\numberline {3.3.2}Underdamped and Overdamped Regimes}{9}% 
+\contentsline {paragraph}{}{9}% 
+\contentsline {subsection}{\numberline {3.4}$RLC$ Resonant Circuit}{11}% 
+\contentsline {paragraph}{}{11}% 
+\contentsline {paragraph}{}{12}% 
+\contentsline {paragraph}{}{12}% 
+\contentsline {paragraph}{}{12}% 
+\contentsline {paragraph}{}{14}% 
+\contentsline {paragraph}{}{16}% 
+\contentsline {paragraph}{}{17}% 
+\contentsline {paragraph}{}{17}% 
+\contentsline {section}{\numberline {4}Discussion}{17}% 
+\contentsline {subsection}{\numberline {4.1}The Transient Response of $RC$ Circuit}{17}% 
+\contentsline {paragraph}{}{17}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {subsection}{\numberline {4.2}The Transient Response of $RL$ Circuit}{18}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {subsection}{\numberline {4.3}The Transient Response of $RLC$ Circuit}{18}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {subsection}{\numberline {4.4}The $RLC$ Resonant Circuit}{18}% 
+\contentsline {paragraph}{}{18}% 
+\contentsline {paragraph}{}{19}% 
+\contentsline {paragraph}{}{19}% 
+\contentsline {paragraph}{}{19}% 
+\contentsline {section}{\numberline {5}Conclusion}{19}% 
+\contentsline {paragraph}{}{19}% 
+\contentsline {section}{\numberline {6}Reference}{19}% 
+\contentsline {section}{\numberline {A}Uncertainty Analysis}{20}% 
+\contentsline {subsection}{\numberline {A.1}The Uncertainty of the Theoretical and Experimental Value of $\tau $ in Section 3.1\hbox {}}{20}% 
+\contentsline {paragraph}{}{20}% 
+\contentsline {paragraph}{}{20}% 
+\contentsline {subsection}{\numberline {A.2}The Uncertainty of the Theoretical and Experimental Value of $\tau $ in Section 3.2\hbox {}}{20}% 
+\contentsline {paragraph}{}{20}% 
+\contentsline {paragraph}{}{20}% 
+\contentsline {subsection}{\numberline {A.3}The Uncertainty of the Theoretical and Experimental Value of $\tau $ in Section 3.3.1\hbox {}}{21}% 
+\contentsline {paragraph}{}{21}% 
+\contentsline {paragraph}{}{21}% 
+\contentsline {subsection}{\numberline {A.4}The Uncertainty of the Theoretical $f_0$ in Section 3.4\hbox {}}{21}% 
+\contentsline {paragraph}{}{21}% 
+\contentsline {subsection}{\numberline {A.5}The Uncertainty of $I/I_m$ and $f/f_0$ in Section 3.4\hbox {}}{21}% 
+\contentsline {paragraph}{}{21}% 
+\contentsline {paragraph}{}{21}% 
+\contentsline {subsection}{\numberline {A.6}The Uncertainty of the Theoretical and Experimental Value of the Phase Difference $\varphi $ in Section 3.4\hbox {}}{22}% 
+\contentsline {paragraph}{}{22}% 
+\contentsline {paragraph}{}{22}% 
+\contentsline {paragraph}{}{22}% 
+\contentsline {subsection}{\numberline {A.7}The Uncertainty of the Theoretical and Experimental Value of the Quality Factor $Q$ in Section 3.4\hbox {}}{22}% 
+\contentsline {paragraph}{}{22}% 
+\contentsline {paragraph}{}{23}% 
+\contentsline {section}{\numberline {B}Data Sheet}{23}% 
+\contentsline {paragraph}{}{23}% 
